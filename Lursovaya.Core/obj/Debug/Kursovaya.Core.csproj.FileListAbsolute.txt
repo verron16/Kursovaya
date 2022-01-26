@@ -1,0 +1,5 @@
+K:\Users\nikol\source\repos\Kursovaya\Lursovaya.Core\bin\Debug\Lursovaya.Core.dll
+K:\Users\nikol\source\repos\Kursovaya\Lursovaya.Core\bin\Debug\Lursovaya.Core.pdb
+K:\Users\nikol\source\repos\Kursovaya\Lursovaya.Core\obj\Debug\Kursovaya.Core.csproj.CoreCompileInputs.cache
+K:\Users\nikol\source\repos\Kursovaya\Lursovaya.Core\obj\Debug\Lursovaya.Core.dll
+K:\Users\nikol\source\repos\Kursovaya\Lursovaya.Core\obj\Debug\Lursovaya.Core.pdb

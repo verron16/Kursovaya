@@ -1,0 +1,61 @@
+[16.01.2022 12:50:03.407] [System.Collections.Generic.ArraySortHelper`1[T].Sort()] —бой при сравнении двух элементов массива.
+Stack trace    в System.Collections.Generic.ArraySortHelper`1.Sort(T[] keys, Int32 index, Int32 length, IComparer`1 comparer)
+   в System.Array.Sort[T](T[] array, Int32 index, Int32 length, IComparer`1 comparer)
+   в System.Collections.Generic.List`1.Sort(Int32 index, Int32 count, IComparer`1 comparer)
+   в System.Collections.Generic.List`1.Sort()
+   в Lursovaya.Core.TypeGetter.ClassGetter.GetEnumerableOfType[T]() в K:\Users\nikol\source\repos\Kursovaya\Lursovaya.Core\TypeGetter\ClassGetter.cs:строка 21
+   в Kursovaya.BLL.Command.Command.GetCommands() в K:\Users\nikol\source\repos\Kursovaya\Kursovaya.BLL\Command\Command.cs:строка 19
+   в Kursovaya.Program.<HandleUpdateAsync>d__3.MoveNext() в K:\Users\nikol\source\repos\Kursovaya\Kursovaya\Program.cs:строка 48
+[16.01.2022 12:50:21.053] [System.Collections.Generic.ArraySortHelper`1[T].Sort()] —бой при сравнении двух элементов массива.
+Stack trace    в System.Collections.Generic.ArraySortHelper`1.Sort(T[] keys, Int32 index, Int32 length, IComparer`1 comparer)
+   в System.Array.Sort[T](T[] array, Int32 index, Int32 length, IComparer`1 comparer)
+   в System.Collections.Generic.List`1.Sort(Int32 index, Int32 count, IComparer`1 comparer)
+   в System.Collections.Generic.List`1.Sort()
+   в Lursovaya.Core.TypeGetter.ClassGetter.GetEnumerableOfType[T]() в K:\Users\nikol\source\repos\Kursovaya\Lursovaya.Core\TypeGetter\ClassGetter.cs:строка 21
+   в Kursovaya.BLL.Command.Command.GetCommands() в K:\Users\nikol\source\repos\Kursovaya\Kursovaya.BLL\Command\Command.cs:строка 19
+   в Kursovaya.Program.<HandleUpdateAsync>d__3.MoveNext() в K:\Users\nikol\source\repos\Kursovaya\Kursovaya\Program.cs:строка 48
+[16.01.2022 15:15:52.340] [Kursovaya.BLL.Users.TelegramUser.Get()] User is null TID : 322044387
+Stack trace    в Kursovaya.BLL.Users.TelegramUser.Get(Int64 tid) в K:\Users\nikol\source\repos\Kursovaya\Kursovaya.BLL\Users\TelegramUser.cs:строка 29
+   в Kursovaya.BLL.Users.TelegramUser.SetStatus(Int64 tid, String status) в K:\Users\nikol\source\repos\Kursovaya\Kursovaya.BLL\Users\TelegramUser.cs:строка 35
+   в Kursovaya.BLL.Commands.HelloCommand.<ExecuteAsync>d__2.MoveNext() в K:\Users\nikol\source\repos\Kursovaya\Kursovaya.BLL\Commands\HelloCommand.cs:строка 18
+---  онец трассировка стека из предыдущего расположени€, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   в Kursovaya.Program.<HandleUpdateAsync>d__3.MoveNext()
+[16.01.2022 15:53:37.592] [Kursovaya.BLL.Users.TelegramUser.Get()] User is null TID : 322044387
+Stack trace    в Kursovaya.BLL.Users.TelegramUser.Get(Int64 tid) в K:\Users\nikol\source\repos\Kursovaya\Kursovaya.BLL\Users\TelegramUser.cs:строка 29
+   в Kursovaya.BLL.Users.TelegramUser.SetStatus(Int64 tid, String status) в K:\Users\nikol\source\repos\Kursovaya\Kursovaya.BLL\Users\TelegramUser.cs:строка 35
+   в Kursovaya.BLL.Commands.HelloCommand.<ExecuteAsync>d__2.MoveNext() в K:\Users\nikol\source\repos\Kursovaya\Kursovaya.BLL\Commands\HelloCommand.cs:строка 18
+---  онец трассировка стека из предыдущего расположени€, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   в Kursovaya.Program.<HandleUpdateAsync>d__3.MoveNext() в K:\Users\nikol\source\repos\Kursovaya\Kursovaya\Program.cs:строка 63
+[16.01.2022 15:53:58.297] [Kursovaya.BLL.Users.TelegramUser.Get()] User is null TID : 322044387
+Stack trace    в Kursovaya.BLL.Users.TelegramUser.Get(Int64 tid) в K:\Users\nikol\source\repos\Kursovaya\Kursovaya.BLL\Users\TelegramUser.cs:строка 29
+   в Kursovaya.BLL.Users.TelegramUser.SetStatus(Int64 tid, String status) в K:\Users\nikol\source\repos\Kursovaya\Kursovaya.BLL\Users\TelegramUser.cs:строка 35
+   в Kursovaya.BLL.Commands.HelloCommand.<ExecuteAsync>d__2.MoveNext() в K:\Users\nikol\source\repos\Kursovaya\Kursovaya.BLL\Commands\HelloCommand.cs:строка 18
+---  онец трассировка стека из предыдущего расположени€, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   в Kursovaya.Program.<HandleUpdateAsync>d__3.MoveNext() в K:\Users\nikol\source\repos\Kursovaya\Kursovaya\Program.cs:строка 63
+[16.01.2022 16:00:19.354] [Kursovaya.BLL.Users.TelegramUser.Get()] User is null TID : 322044387
+Stack trace    в Kursovaya.BLL.Users.TelegramUser.Get(Int64 tid) в K:\Users\nikol\source\repos\Kursovaya\Kursovaya.BLL\Users\TelegramUser.cs:строка 29
+   в Kursovaya.BLL.Users.TelegramUser.SetStatus(Int64 tid, String status) в K:\Users\nikol\source\repos\Kursovaya\Kursovaya.BLL\Users\TelegramUser.cs:строка 35
+   в Kursovaya.BLL.Commands.HelloCommand.<ExecuteAsync>d__2.MoveNext() в K:\Users\nikol\source\repos\Kursovaya\Kursovaya.BLL\Commands\HelloCommand.cs:строка 35
+---  онец трассировка стека из предыдущего расположени€, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   в Kursovaya.Program.<HandleUpdateAsync>d__3.MoveNext() в K:\Users\nikol\source\repos\Kursovaya\Kursovaya\Program.cs:строка 63
+[16.01.2022 16:00:22.672] [Kursovaya.BLL.Users.TelegramUser.Get()] User is null TID : 322044387
+Stack trace    в Kursovaya.BLL.Users.TelegramUser.Get(Int64 tid) в K:\Users\nikol\source\repos\Kursovaya\Kursovaya.BLL\Users\TelegramUser.cs:строка 29
+   в Kursovaya.BLL.Users.TelegramUser.SetStatus(Int64 tid, String status) в K:\Users\nikol\source\repos\Kursovaya\Kursovaya.BLL\Users\TelegramUser.cs:строка 35
+   в Kursovaya.BLL.Commands.HelloCommand.<ExecuteAsync>d__2.MoveNext() в K:\Users\nikol\source\repos\Kursovaya\Kursovaya.BLL\Commands\HelloCommand.cs:строка 35
+---  онец трассировка стека из предыдущего расположени€, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   в Kursovaya.Program.<HandleUpdateAsync>d__3.MoveNext() в K:\Users\nikol\source\repos\Kursovaya\Kursovaya\Program.cs:строка 63

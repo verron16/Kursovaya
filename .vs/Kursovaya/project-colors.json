@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1cc9fa57-c454-4a36-b414-3456024eddc5": {
+      "ProjectGuid": "1cc9fa57-c454-4a36-b414-3456024eddc5",
+      "DisplayName": "Kursovaya",
+      "ColorIndex": 0
+    },
+    "c7e3c1a9-7b91-43c8-8006-7cb8ec359a2f": {
+      "ProjectGuid": "c7e3c1a9-7b91-43c8-8006-7cb8ec359a2f",
+      "DisplayName": "Kursovaya.DTL",
+      "ColorIndex": 1
+    },
+    "3848992b-2ef0-495e-964f-4c7badcbc483": {
+      "ProjectGuid": "3848992b-2ef0-495e-964f-4c7badcbc483",
+      "DisplayName": "Kursovaya.DAL",
+      "ColorIndex": 2
+    },
+    "9fc45292-1078-4c85-994f-ff75ab5b953a": {
+      "ProjectGuid": "9fc45292-1078-4c85-994f-ff75ab5b953a",
+      "DisplayName": "Kursovaya.BLL",
+      "ColorIndex": 3
+    },
+    "96c6e41f-2bc7-48bc-ada5-b6f51da359ef": {
+      "ProjectGuid": "96c6e41f-2bc7-48bc-ada5-b6f51da359ef",
+      "DisplayName": "Kursovaya.Core",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 5
+}

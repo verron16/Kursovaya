@@ -1,0 +1,6 @@
+[01.01.2022 19:37:51.980] [asdasd]
+[01.01.2022 19:39:02.548] asdasd
+[01.01.2022 19:40:04.934] [Kursovaya.Program.Main()] Попытка деления на нуль.
+[01.01.2022 19:40:30.129] asdasd
+[01.01.2022 19:42:12.034] [Kursovaya.Program.Main()] Попытка деления на нуль.
+Stack trace    в Kursovaya.Program.Main(String[] args) в K:\Users\nikol\source\repos\Kursovaya\Kursovaya\Program.cs:строка 19

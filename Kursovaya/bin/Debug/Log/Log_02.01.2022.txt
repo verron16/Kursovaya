@@ -1,0 +1,3 @@
+[02.01.2022 18:28:43.916] [Kursovaya.BLL.Users.TelegramUser.IsBanned()] Метод или операция не реализована.
+Stack trace    в Kursovaya.BLL.Users.TelegramUser.IsBanned(Int64 tid) в K:\Users\nikol\source\repos\Kursovaya\Kursovaya.BLL\Users\TelegramUser.cs:строка 15
+   в Kursovaya.Program.<HandleUpdateAsync>d__3.MoveNext() в K:\Users\nikol\source\repos\Kursovaya\Kursovaya\Program.cs:строка 51

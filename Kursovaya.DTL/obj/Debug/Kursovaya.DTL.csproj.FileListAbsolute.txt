@@ -1,0 +1,9 @@
+K:\Users\nikol\source\repos\Kursovaya\Kursovaya.DTL\bin\Debug\Kursovaya.DTL.dll
+K:\Users\nikol\source\repos\Kursovaya\Kursovaya.DTL\bin\Debug\Kursovaya.DTL.pdb
+K:\Users\nikol\source\repos\Kursovaya\Kursovaya.DTL\obj\Debug\Kursovaya.DTL.csproj.AssemblyReference.cache
+K:\Users\nikol\source\repos\Kursovaya\Kursovaya.DTL\obj\Debug\Kursovaya.DTL.csproj.CoreCompileInputs.cache
+K:\Users\nikol\source\repos\Kursovaya\Kursovaya.DTL\obj\Debug\Kursovaya.DTL.dll
+K:\Users\nikol\source\repos\Kursovaya\Kursovaya.DTL\obj\Debug\Kursovaya.DTL.pdb
+K:\Users\nikol\source\repos\Kursovaya\Kursovaya.DTL\bin\Debug\Lursovaya.Core.dll
+K:\Users\nikol\source\repos\Kursovaya\Kursovaya.DTL\bin\Debug\Lursovaya.Core.pdb
+K:\Users\nikol\source\repos\Kursovaya\Kursovaya.DTL\obj\Debug\Kursovaya.DTL.csproj.CopyComplete
